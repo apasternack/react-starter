@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Adam Pasternack",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apasternack/react-starter.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/apasternack/react-starter/issues"
+  },
+  "homepage": "https://github.com/apasternack/react-starter#readme"
 }
